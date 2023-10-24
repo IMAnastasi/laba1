@@ -1,0 +1,7 @@
+D:\КП и ЯП\ЛР1\Задание 3\Задание 3\bin\Debug\Задание 3.exe.config
+D:\КП и ЯП\ЛР1\Задание 3\Задание 3\bin\Debug\Задание 3.exe
+D:\КП и ЯП\ЛР1\Задание 3\Задание 3\bin\Debug\Задание 3.pdb
+D:\КП и ЯП\ЛР1\Задание 3\Задание 3\obj\Debug\Задание 3.csproj.AssemblyReference.cache
+D:\КП и ЯП\ЛР1\Задание 3\Задание 3\obj\Debug\Задание 3.csproj.CoreCompileInputs.cache
+D:\КП и ЯП\ЛР1\Задание 3\Задание 3\obj\Debug\Задание 3.exe
+D:\КП и ЯП\ЛР1\Задание 3\Задание 3\obj\Debug\Задание 3.pdb
